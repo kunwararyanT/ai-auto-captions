@@ -2,7 +2,7 @@
   title: "Viral AI Auto-Caption & Subtitle Studio",
   desc: "Generate animated Hormozi & MrBeast style subtitles in Hindi & English. 100% free with instant video & SRT export.",
   category: "creator",
-  path: "/ai auto captions.html",
+  path: "/ai-auto-captions.html",
   icon: "message-square-plus",
   badge: "🔥 Viral Preset",
   highlight: true
